@@ -19,10 +19,14 @@ lmain = ctk.CTkLabel(app, height=512, width=512)
 lmain.place(x=10, y=110)
 
 modelid = "CompVis/stable-diffusion-v1-4"
+device = "cuda"
 pipe = StableDiffusionPipeline.from_pretrained(modelid, revision="fp16", torch_dtype=torch.float16, use_auth_token=auth_token) 
+pipe.to(device) 
 
 def generate(): 
-    image = pipe(prompt.get(), guidance_scale=8.5)["sample"][0]
+    with autocast(device): 
+        image = pipe(prompt.get(), guidance_scale=8.5)["sample"][0]
+    
     image.save('generatedimage.png')
     img = ImageTk.PhotoImage(image)
     lmain.configure(image=img) 
