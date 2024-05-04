@@ -31,3 +31,30 @@ StableBud-ImageGenerationApp is a user-friendly application built using Python a
 
 ## Installation
 1. Clone the repository:
+  git clone https://github.com/shiva-code-code/StableBud-ImageGenerationApp.git
+
+2. Install the required dependencies:
+   pip install -r requirements.txt
+
+
+3. Run the `main.py` file:
+  python main.py
+
+
+## Feedback and Contributions
+- **Feedback**: We welcome feedback from users to improve the application's functionality and user experience.
+- **Contributions**: Developers are invited to contribute to the project by submitting bug fixes, feature enhancements, or documentation improvements via pull requests.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Tech Stack
+- Python
+- Tkinter
+- PyTorch
+- PIL (Python Imaging Library)
+
+## Requirements
+- See [requirements.txt](requirements.txt) for a list of required Python packages.
+
+
