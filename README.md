@@ -18,6 +18,15 @@ StableBud-ImageGenerationApp is a user-friendly application built using Python a
 - PyTorch
 - PIL (Python Imaging Library)
 
+
+## Requirements
+- NVIDIA GPU with more than 4GB VRAM
+- CUDA core enable device
+- Mostly avoid laptop
+- Python 3.x
+- See [requirements.txt](requirements.txt) for a list of required Python packages.
+
+
 ## Use Cases
 - **Artistic Creations**: Users can input creative prompts or descriptions to generate unique images that inspire artistic expression.
 - **Content Creation**: Content creators can use the application to quickly generate images for social media posts, blog articles, or presentations.
@@ -51,14 +60,6 @@ StableBud-ImageGenerationApp is a user-friendly application built using Python a
 - **Feedback**: We welcome feedback from users to improve the application's functionality and user experience.
 - **Contributions**: Developers are invited to contribute to the project by submitting bug fixes, feature enhancements, or documentation improvements via pull requests.
   
-
-
-## Requirements
-- NVIDIA GPU with more than 4GB VRAM
-- CUDA core enable device
-- Mostly avoid laptop
-- Python 3.x
-- See [requirements.txt](requirements.txt) for a list of required Python packages.
 
 
 
