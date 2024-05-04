@@ -29,6 +29,19 @@ StableBud-ImageGenerationApp is a user-friendly application built using Python a
 - See [requirements.txt](requirements.txt) for a list of required Python packages.
 
 
+## Installation
+1. Clone the repository:
+  git clone https://github.com/shiva-code-code/StableBud-ImageGenerationApp.git
+
+2. Install the required dependencies:
+   pip install -r requirements.txt
+
+
+3. Run the `main.py` file:
+  python main.py
+
+
+
 ## Use Cases
 - **Artistic Creations**: Users can input creative prompts or descriptions to generate unique images that inspire artistic expression.
 - **Content Creation**: Content creators can use the application to quickly generate images for social media posts, blog articles, or presentations.
@@ -46,16 +59,6 @@ StableBud-ImageGenerationApp is a user-friendly application built using Python a
 - **Integration with Cloud Services**: Allow users to seamlessly save and share generated images using cloud storage services.
 - **Community Features**: Implement features for users to share their generated images, collaborate on projects, and participate in challenges or contests.
 
-## Installation
-1. Clone the repository:
-  git clone https://github.com/shiva-code-code/StableBud-ImageGenerationApp.git
-
-2. Install the required dependencies:
-   pip install -r requirements.txt
-
-
-3. Run the `main.py` file:
-  python main.py
 
 
 ## Feedback and Contributions
