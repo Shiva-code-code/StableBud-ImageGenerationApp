@@ -4,10 +4,10 @@
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
 - [Requirements](#requirements)
+- [Installation](#installation)
 - [Use Cases](#use-cases)
 - [Key Features](#key-features)
 - [Improvements](#improvements)
-- [Installation](#installation)
 - [Feedback and Contributions](#feedback-and-contributions)
 
 ## Overview
