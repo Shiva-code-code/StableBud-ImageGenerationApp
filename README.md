@@ -2,6 +2,8 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Tech Stack](#tech-stack)
+- [Requirements](#requirements)
 - [Use Cases](#use-cases)
 - [Key Features](#key-features)
 - [Improvements](#improvements)
