@@ -1,5 +1,14 @@
 # StableBud-ImageGenerationApp
 
+## Table of Contents
+- [Overview](#overview)
+- [Use Cases](#use-cases)
+- [Key Features](#key-features)
+- [Improvements](#improvements)
+- [Installation](#installation)
+- [Feedback and Contributions](#feedback-and-contributions)
+- [License](#license)
+
 ## Overview
 StableBud-ImageGenerationApp is a user-friendly application built using Python and Tkinter that allows users to generate images based on text prompts. It utilizes the Stable Diffusion model to create visually appealing images from user-provided input.
 
